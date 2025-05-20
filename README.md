@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Tom – Junior Data Analyst
+# 👋 Hi there! I'm Tom – Aspiring Data Analyst
 
 🎯 I'm currently looking for a **Junior Data Analyst** role where I can turn data into meaningful insights and impactful visualizations.
 
