@@ -25,8 +25,8 @@
 
 ## 📂 Projects
 
-🛠️ Work in progress!  
-I'm currently preparing and organizing my portfolio projects. New repositories coming soon!
+🔹 **[Natural Disasters Analysis – A Mini Project to Practice Pandas](https://github.com/TomaszMajcher/data_analysis_training_with_kaggle_data)**  
+Analyzed historical data of natural disasters. 
 
 ---
 
